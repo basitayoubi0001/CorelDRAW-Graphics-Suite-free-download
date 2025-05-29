@@ -6,7 +6,7 @@
 
 في عالم التصميم الجرافيكي، تُعد البرامج الاحترافية أدوات لا غنى عنها لتحويل الأفكار إلى تصاميم بصرية مبهرة. ومن بين أشهر هذه الأدوات وأكثرها قوة وانتشارًا، تبرز **مجموعة رسومات كوريل درو (CorelDRAW Graphics Suite)**، التي تقدم مجموعة متكاملة من الأدوات لإنشاء تصاميم احترافية بكل سهولة وإبداع.
 
-(Download Link)[https://igetintopc.info/download-latest-software-setup]
+[Download Link](https://igetintopc.info/download-latest-software-setup)
 
 ### ما هي CorelDRAW Graphics Suite؟
 
